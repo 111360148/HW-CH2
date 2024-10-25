@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\應用軟體實習\hw_ch2\.metadata\.plugins\org.eclipse.jdt.core
+12337490.index
+1865797976.index
+1453876087.index
